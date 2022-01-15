@@ -1,6 +1,13 @@
 const Header = {
     render() {
-        return /* html */ `<nav class="max-w-5xl mx-auto bg-orange-500">
+        return /* html */ `<div class="max-w-5xl mx-auto">
+        <div class="bg-blue-900 py-3">
+            <a href="">
+                <img src="https://picsum.photos/150/50" class="mx-auto" alt="">
+            </a>
+        </div>
+        
+        <nav class="max-w-5xl mx-auto bg-orange-500">
             <ul class="flex">
                 <li><a href="/" class="block px-4 py-3 hover:bg-blue-800 hover:text-white">Trang chủ</a></li>
                 <li><a href="/about" class="block px-4 py-3 hover:bg-blue-800 hover:text-white">Tuyển sinh</a></li>
