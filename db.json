@@ -1,0 +1,67 @@
+{
+    "posts": [{
+            "id": "8",
+            "title": "Mi band 3",
+            "img": "https://i.ytimg.com/vi/ayhJFMXOAxY/maxresdefault.jpg",
+            "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "catePostId": "2",
+            "price": "100"
+        },
+        {
+            "id": "10",
+            "title": "Apple Watch 2",
+            "price": "100",
+            "img": "https://photo2.tinhte.vn/data/attachment-files/2020/05/5026887_s-l640.jpg",
+            "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back  comfort and support",
+            "catePostId": "1"
+        },
+        {
+            "id": "68",
+            "price": "100",
+            "title": "Galaxy watch 6",
+            "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2020/09/24/SM-R820-50.jpg",
+            "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC  all-day comfort and support",
+            "catePostId": "1"
+        },
+        {
+            "id": "86",
+            "title": "Amafit GTRS 2",
+            "price": "100",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fPQPdyIV6OFqciWQSoli8P8Zjquw2q7XfAo0_PHXgE2nsJPaJ3EfvCNzBmvdYxLOQYI&usqp=CAU",
+            "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "catePostId": "2"
+        }
+    ],
+    "catePosts": [
+        { "id": "1", "name": "Dong ho thong minh" },
+        { "id": "2", "name": "The gioi cong nghe" },
+        { "id": "3", "name": "Khuyen mai ngay he" },
+        { "id": "4", "name": "Giai tri cuoi tuan" }
+    ],
+    "users": [],
+    "products": [{
+            "id": "23",
+            "catePostId": 2,
+            "title": "Smart watch 3",
+            "img": "https://smartwear.vn/wp-content/uploads/2019/06/dong-ho-samsung-galaxy-watch-6.jpg",
+            "desc": "come fly with me",
+            "price": "100"
+        },
+        {
+            "id": "24",
+            "catePostId": 1,
+            "title": "Smart watch  2",
+            "img": "https://smartwear.vn/wp-content/uploads/2019/06/dong-ho-samsung-galaxy-watch-6.jpg",
+            "desc": "come fly with me",
+            "price": "200"
+        },
+        {
+            "id": "12",
+            "catePostId": 2,
+            "title": "Smart watch 1",
+            "price": 345,
+            "desc": "come fly with me",
+            "img": "https://smartwear.vn/wp-content/uploads/2019/06/dong-ho-samsung-galaxy-watch-6.jpg"
+        }
+    ]
+}
